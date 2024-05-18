@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/ProjectAAP/out/build/x64-Debug/CMakeFiles/ProjectAAP.dir
+C:/Users/User/CLionProjects/ProjectAAP/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/ProjectAAP/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
