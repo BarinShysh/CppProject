@@ -1,0 +1,9 @@
+build/
+gtest/
+.idea/
+.vs/
+CMakeFiles/
+_deps/
+cmake-build-debug/
+gtest/
+out/

@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/ProjectAAP/cmake-build-debug/CMakeFiles/ProjectAAP.dir
-C:/Users/User/CLionProjects/ProjectAAP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/ProjectAAP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
